@@ -15,11 +15,8 @@
 
 | STT | Họ và tên | MSSV | Vai trò chính | Module/deliverable sở hữu |
 | --: | --- | --- | --- | --- |
-| 1 | [Họ tên] | [MSSV] | [Vai trò] | [File, hàm hoặc artifact] |
-| 2 | [Họ tên] | [MSSV] | [Vai trò] | [File, hàm hoặc artifact] |
-| 3 | [Họ tên] | [MSSV] | [Vai trò] | [File, hàm hoặc artifact] |
-| 4 | [Nếu có] | [MSSV] | [Vai trò] | [File, hàm hoặc artifact] |
-| 5 | [Nếu có] | [MSSV] | [Vai trò] | [File, hàm hoặc artifact] |
+| 1 | Đinh Kim Thái | 2A202602417 | Data Engineer / Data Observability Engineer | `src/ingestion/*`, `src/observability/quality.py`, `data/raw/*`, `data/clean/*`, `data/quality/*`, `corruption_log.json` |
+| 2 | [Họ và tên TV 2] | [MSSV TV 2] | RAG / Evaluation Engineer | `src/evaluation/*`, `src/retrieval/*`, `src/pipelines/*`, `script/*`, `data/eval/*`, `data/chroma/*`, `*_metrics.json`, `data/reports/*` |
 
 ## 2. Tóm tắt kết quả
 
