@@ -1,7 +1,7 @@
 {
   "backend": "chroma",
   "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
-  "persist_path": "/Users/PhuocTien/Documents/vinAI20K/Day10_260926/K4-L3B-DAY10-Beta-DataPipelineDataObservability/data/chroma",
+  "persist_path": "D:\\lab_vinuni\\lab10\\K4-L3B-DAY10-Beta-DataPipelineDataObservability\\data\\chroma",
   "collection_name": "papers-corrupted",
   "documents": [
     {
