@@ -1,6 +1,6 @@
 # Danh Sách Thành Viên & Báo Cáo Phân Công Nhóm
 
-- **Tên Nhóm:** `[Điền tên nhóm]`
+- **Tên Nhóm:** `Beta`
 - **Mã Nhóm / Lớp:** `K4-L3B-DAY10`
 - **Tên Repository Nộp Bài:** `K4-L3B-DAY10-Beta-DataPipelineDataObservability`
 
@@ -11,7 +11,7 @@
 | STT | Họ và tên | MSSV | Email | Vai trò & Phân công công việc | Báo cáo cá nhân |
 |---:|---|---|---|---|---|
 | 1 | Đinh Kim Thái | 2A202602417 | kimthaik17@gmail.com | **Data Engineer / Data Observability Engineer**<br>- Raw Data Ingestion & Lineage (`crossref.py`)<br>- Data Cleaning & Pre-embed Modeling (`cleaning.py`)<br>- Data Quality Gate (GX 1.x) & Freshness SLA (`quality.py`)<br>- Data Corruption Suite & Repair Logic (`corruption.py`) | `report/2A202602417_DinhKimThai.md` |
-| 2 | [Họ và tên TV 2] | [MSSV TV 2] | [Email TV 2] | **RAG / Evaluation Engineer**<br>- Evaluation Dataset Benchmark (`testset.py`)<br>- Embedding & ChromaDB Vector Store (`retrieval/*`)<br>- Multi-provider QA Agent (`agent.py`, `qa.py`)<br>- Pipeline Orchestration & Metrics (`phase1.py`, `corruption_flow.py`)<br>- Báo cáo nhóm & Tích hợp (`report/group_report.md`, `data/reports/*`) | `report/<MSSV2>_HoTen.md` |
+| 2 | Nguyễn Lê Phước Tiến | 2A202602616 | 2A202602616@vinuni.edu.vn | **RAG / Evaluation Engineer**<br>- Evaluation Dataset Benchmark (`testset.py`)<br>- Embedding & ChromaDB Vector Store (`retrieval/*`)<br>- Multi-provider QA Agent (`agent.py`, `qa.py`)<br>- Pipeline Orchestration & Metrics (`phase1.py`, `corruption_flow.py`)<br>- Báo cáo nhóm & Tích hợp (`report/group_report.md`, `data/reports/*`) | `report/2A202602616_NguyenLePhuocTien.md` |
 
 ---
 
@@ -31,7 +31,7 @@
 
 ---
 
-### ## ThanhVien2-[MSSV_TV2]
+### ## NguyenLePhuocTien-2A202602616
 - **Vai trò:** RAG / Evaluation Engineer.
 - **Main Files:** `src/evaluation/testset.py`, `src/retrieval/*` (`index.py`, `embeddings.py`, `agent.py`, `qa.py`), `src/pipelines/phase1.py`, `src/pipelines/corruption_flow.py`, `script/*`, `report/*`.
 - **Main Artifacts:** `data/eval/*`, `data/chroma/*`, `data/results/baseline_metrics.json`, `data/results/corrupted_metrics.json`, `data/results/repaired_metrics.json`, `data/reports/*`.
